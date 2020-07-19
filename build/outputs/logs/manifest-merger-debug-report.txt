@@ -1,0 +1,193 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:2:1-46:13
+INJECTED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:2:1-46:13
+INJECTED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:2:1-46:13
+INJECTED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:2:1-46:13
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\3e12014d0d4ca4e9a9cace19f878efd6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\f9641c14e9c1acf8599aa00c4acd39d1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\9143928b7fb4f6d87882935b82f6c19f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\d845334fa4bc267e24cf5b8d571aa2f2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\9ba9434a59bf1c5f8fc9b0344ea377a3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\590b942bf3a67ff0d6a22763c31b65a6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\cdd33f67d41cd654c9994be0fa895e99\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\f0b8ca44465beebf497b1bceda4d2437\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\d119692feb74e071ce07ee7676345773\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\96a38e23e3ce09348942b00639996406\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\0dd4917312354c1ed02579ef78319359\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\9dad49b2a901d6fbcd47a294c086aac7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\f88312228534cf1e6c0b46f90d69fa46\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\5b19860eb2341d9defed1b8633726e85\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\edfe33306b4365dd09fdec96b729683a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\1cb1647b4771406bd8c39925507a364a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\9e9912382982007c20578c16e1ace61b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\f266efb054fd94970229b3157932df57\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\553323bdb45370f5c813f7bba914a26a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\ddce4e6358604478b9dd153be39dab53\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\e80834dd7993c9db6cae53d6819bd9ec\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\af4606d4a718689c1017e29462081b24\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\4da4d895d8332aeb003b353a2b04b36b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\ed085bc211c8bc6e9247d7cab341a4df\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\1cde3ed96f3d7ba3ee418d0e080601cc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\c8330da88ff5c83e74a6775da0fdf08f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\c41306a8daa40023d189078457a11a5d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\7c618bb42818ce957841ba65a8c84c72\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:2:1-46:13
+INJECTED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:2:1-46:13
+INJECTED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:2:1-46:13
+	package
+		ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:3:11-40
+		INJECTED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml
+		INJECTED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:5:11-38
+		INJECTED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml
+		INJECTED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:2:11-71
+	android:versionCode
+		ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:4:11-36
+		INJECTED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml
+		INJECTED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml
+application
+ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:8:5-45:20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\f9641c14e9c1acf8599aa00c4acd39d1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\f9641c14e9c1acf8599aa00c4acd39d1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\d845334fa4bc267e24cf5b8d571aa2f2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\d845334fa4bc267e24cf5b8d571aa2f2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\f266efb054fd94970229b3157932df57\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\f266efb054fd94970229b3157932df57\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\e80834dd7993c9db6cae53d6819bd9ec\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\e80834dd7993c9db6cae53d6819bd9ec\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\f266efb054fd94970229b3157932df57\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:10:13-47
+	android:icon
+		ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:11:13-51
+	android:name
+		ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:9:13-61
+activity#com.imooc.stepapp.WelcomeActivity
+ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:13:9-20:21
+	android:label
+		ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:15:17-51
+	android:name
+		ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:14:17-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:16:13-19:30
+action#android.intent.action.MAIN
+ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:17:17-71
+	android:name
+		ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:17:25-68
+category#android.intent.category.LAUNCHER
+ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:18:17-79
+	android:name
+		ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:18:27-76
+activity#com.imooc.stepapp.MainActivity
+ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:22:9-29:21
+	android:screenOrientation
+		ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:28:17-55
+	android:label
+		ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:25:17-51
+	android:launchMode
+		ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:27:17-50
+	android:hardwareAccelerated
+		ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:24:17-53
+	android:configChanges
+		ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:23:17-47
+activity#com.imooc.stepapp.SettingActivity
+ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:30:9-36:21
+	android:screenOrientation
+		ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:35:17-55
+	android:label
+		ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:33:17-51
+	android:hardwareAccelerated
+		ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:32:17-53
+	android:configChanges
+		ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:31:17-50
+service#com.imooc.service.PedometerService
+ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:37:9-43:20
+	android:process
+		ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:39:17-44
+	android:name
+		ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:38:17-68
+intent-filter#action:name:com.imooc.service.IPedometerService
+ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:40:13-42:30
+action#com.imooc.service.IPedometerService
+ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:41:17-80
+	android:name
+		ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml:41:25-77
+uses-sdk
+INJECTED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml
+INJECTED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\3e12014d0d4ca4e9a9cace19f878efd6\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\3e12014d0d4ca4e9a9cace19f878efd6\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\f9641c14e9c1acf8599aa00c4acd39d1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\f9641c14e9c1acf8599aa00c4acd39d1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\9143928b7fb4f6d87882935b82f6c19f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\9143928b7fb4f6d87882935b82f6c19f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\d845334fa4bc267e24cf5b8d571aa2f2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\d845334fa4bc267e24cf5b8d571aa2f2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\9ba9434a59bf1c5f8fc9b0344ea377a3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\9ba9434a59bf1c5f8fc9b0344ea377a3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\590b942bf3a67ff0d6a22763c31b65a6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\590b942bf3a67ff0d6a22763c31b65a6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\cdd33f67d41cd654c9994be0fa895e99\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\cdd33f67d41cd654c9994be0fa895e99\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\f0b8ca44465beebf497b1bceda4d2437\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\f0b8ca44465beebf497b1bceda4d2437\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\d119692feb74e071ce07ee7676345773\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\d119692feb74e071ce07ee7676345773\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\96a38e23e3ce09348942b00639996406\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\96a38e23e3ce09348942b00639996406\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\0dd4917312354c1ed02579ef78319359\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\0dd4917312354c1ed02579ef78319359\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\9dad49b2a901d6fbcd47a294c086aac7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\9dad49b2a901d6fbcd47a294c086aac7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\f88312228534cf1e6c0b46f90d69fa46\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\f88312228534cf1e6c0b46f90d69fa46\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\5b19860eb2341d9defed1b8633726e85\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\5b19860eb2341d9defed1b8633726e85\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\edfe33306b4365dd09fdec96b729683a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\edfe33306b4365dd09fdec96b729683a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\1cb1647b4771406bd8c39925507a364a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\1cb1647b4771406bd8c39925507a364a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\9e9912382982007c20578c16e1ace61b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\9e9912382982007c20578c16e1ace61b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\f266efb054fd94970229b3157932df57\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\f266efb054fd94970229b3157932df57\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\553323bdb45370f5c813f7bba914a26a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\553323bdb45370f5c813f7bba914a26a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\ddce4e6358604478b9dd153be39dab53\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\ddce4e6358604478b9dd153be39dab53\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\e80834dd7993c9db6cae53d6819bd9ec\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\e80834dd7993c9db6cae53d6819bd9ec\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\af4606d4a718689c1017e29462081b24\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\af4606d4a718689c1017e29462081b24\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\4da4d895d8332aeb003b353a2b04b36b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\4da4d895d8332aeb003b353a2b04b36b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\ed085bc211c8bc6e9247d7cab341a4df\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\ed085bc211c8bc6e9247d7cab341a4df\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\1cde3ed96f3d7ba3ee418d0e080601cc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\1cde3ed96f3d7ba3ee418d0e080601cc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\c8330da88ff5c83e74a6775da0fdf08f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\c8330da88ff5c83e74a6775da0fdf08f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\c41306a8daa40023d189078457a11a5d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\c41306a8daa40023d189078457a11a5d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\7c618bb42818ce957841ba65a8c84c72\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\11297\.gradle\caches\transforms-2\files-2.1\7c618bb42818ce957841ba65a8c84c72\AndroidManifest.xml:20:5-44
+INJECTED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml
+INJECTED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml
+		ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml
+		INJECTED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml
+		ADDED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml
+		INJECTED from D:\liumeihui_project\android_project\iMoocStepApp\src\main\AndroidManifest.xml

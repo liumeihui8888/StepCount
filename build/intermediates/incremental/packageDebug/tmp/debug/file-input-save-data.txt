@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sun Jul 05 21:31:58 GMT+08:00 2020
+1.base=D\:\\liumeihui_project\\android_project\\iMoocStepApp\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=D\:\\liumeihui_project\\android_project\\iMoocStepApp\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+1.path=classes.dex
